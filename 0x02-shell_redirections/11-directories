@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -note -name '.' | wc -1
+find . -type d -note -name '.' | wc -l
